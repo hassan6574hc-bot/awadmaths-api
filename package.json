@@ -1,0 +1,6 @@
+{
+  "name": "awadmaths-api",
+  "version": "1.0.0",
+  "description": "Awad Maths diagnostic report backend",
+  "private": true
+}
