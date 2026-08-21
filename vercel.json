@@ -1,9 +1,4 @@
 {
-  "functions": {
-    "api/report.js": {
-      "runtime": "edge"
-    }
-  },
   "headers": [
     {
       "source": "/api/(.*)",
