@@ -1,5 +1,5 @@
 const RESEND_KEY = process.env.RESEND_API_KEY;
-const TO_EMAIL   = 'Hassan6574hc@gmail.com';
+const TO_EMAIL   = 'awadmaths@outlook.com';
 const FROM_EMAIL = 'onboarding@resend.dev';
 
 function generateNarrative(studentName, yearGroup, testResults, totalCorrect, totalPossible, overallPct) {
